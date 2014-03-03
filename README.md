@@ -10,4 +10,4 @@ I use the challenges as katas to practice coding in Python.
 The challenges solved so far are: 
 
 - <a href="http://www.checkio.org/mission/most-wanted-letter/" target="_blank">The Most Wanted Letter</a>
-- [House Password] (http://www.checkio.org/mission/house-password/)
+- <a href="http://www.checkio.org/mission/house-password/" target="_blank">House Password</a>
