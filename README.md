@@ -9,5 +9,5 @@ I use the challenges as katas to practice coding in Python.
 
 The challenges solved so far are: 
 
-- [The Most Wanted Letter] (http://www.checkio.org/mission/most-wanted-letter/)
+- <a href="http://www.checkio.org/mission/most-wanted-letter/" target="_blank">The Most Wanted Letter</a>
 - [House Password] (http://www.checkio.org/mission/house-password/)
