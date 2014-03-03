@@ -10,3 +10,4 @@ I use the challenges as katas to practice coding in Python.
 The challenges solved so far are: 
 
 - [The Most Wanted Letter] (http://www.checkio.org/mission/most-wanted-letter/)
+- [House Password] (http://www.checkio.org/mission/house-password/)
