@@ -41,5 +41,3 @@ class MostWantedTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
-#     assert checkio(u"Lorem ipsum dolor sit amet 00000000000000000000000")

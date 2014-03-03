@@ -22,8 +22,8 @@ class MostWanted:
 #auto-testing
 # if __name__ == '__main__':
 #     m = MostWanted()
-    # print m.checkio(u"Lorem ipsum dolor sit amet")
-    # assert m.checkio(u"Lorem ipsum dolor sit amet") == "m", "Lorem test"
+#     print m.checkio(u"Lorem ipsum dolor sit amet")
+#     assert m.checkio(u"Lorem ipsum dolor sit amet") == "m", "Lorem test"
 #     assert checkio(u"Hello World!") == "l", "Hello test"
 #     assert checkio(u"How do you do?") == "o", "O is most wanted"
 #     assert checkio(u"One") == "e", "All letter only once."
