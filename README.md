@@ -12,3 +12,4 @@ The challenges solved so far are:
 - <a href="http://www.checkio.org/mission/most-wanted-letter/" target="_blank">The Most Wanted Letter</a>
 - <a href="http://www.checkio.org/mission/house-password/" target="_blank">House Password</a>
 - <a href="http://www.checkio.org/mission/median/" target="_blank">Median</a>
+- <a href="http://www.checkio.org/mission/non-unique-elements/" target="_blank">Non-unique Elements</a>
