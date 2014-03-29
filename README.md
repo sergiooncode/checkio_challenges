@@ -15,3 +15,4 @@ The challenges solved so far are:
 - <a href="http://www.checkio.org/mission/non-unique-elements/" target="_blank">Non-unique Elements</a>
 - <a href="http://www.checkio.org/mission/find-ip/" target="_blank">Find IP</a>
 - <a href="http://www.checkio.org/mission/hamming-distance2/" target="_blank">The Hamming Distance</a>
+- <a href="http://www.checkio.org/mission/fizz-buzz/" target="_blank">Fizz Buzz</a>
